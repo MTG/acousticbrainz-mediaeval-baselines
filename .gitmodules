@@ -1,0 +1,3 @@
+[submodule "tartarus"]
+	path = tartarus
+	url = https://github.com/sergiooramas/tartarus
