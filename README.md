@@ -3,7 +3,7 @@ MediaEval 2018 AcousticBrainz Genre Task
 A baseline combining deep feature embeddings across datasets
 ------------------------------------------------------------
 
-This is the code for our baseline submission to the MediaEval 2018 AcousticBrainz Genre Task. 
+This is the code for our baseline submission to the [MediaEval 2018 AcousticBrainz Genre Task](https://multimediaeval.github.io/2018-AcousticBrainz-Genre-Task/). 
 
 The goal of the task is to automatically classify music tracks by genres based on pre-computed audio
 content features provided by the organizers. Four different genre datasets coming from different 
