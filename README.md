@@ -15,6 +15,13 @@ in order to boost performance of the models (Task 2).
 In this baseline, we decided to focus on demonstration of possibilities of merging different genre 
 ground truth sources using a simple deep learning architecture.
 
+### Data preparation
+
+The models are trained on 80% of the training set and validated after each epoch using the other 20% using the split script with release-group filtering.
+
+This training set split is available in the `data/split` folder.
+
+
 TODO
 
 ### Running code
